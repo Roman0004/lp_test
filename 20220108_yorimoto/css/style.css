@@ -1,0 +1,8 @@
+img{
+  height: 500px;
+  width: 500px;
+}
+
+.svg{
+  background-image: url(img/service__first.svg);
+}
